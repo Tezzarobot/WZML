@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rapid-airship-383220",
+  "private_key_id": "4698434b89e4e45631da4ca84025dd7fe4b8528a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCp38pT890pKPSH\nKGKwec26I7++oIUza0wHXeHWUUCWZXMj6qLSON3ERzYXS8rZunRURxAQZ/lOukaB\neVyhFAa0E3JOv21+huWqN6M/elyAuniMlQPI3HXdZmjVdH4H0wqL8bEIfAOT92Ds\nemr3lefj1NCPdvKRVa2IKjIWiEexNKfK3MR7ODb1ZW+fV3PCqEZgSep/miIS0Ku6\nnrT7ExT3PgpFsDHL06mcku0Xe/CwvlFyjVpM0wib03NOnjfaWLYNwEHV0HZpESk/\nHXuG8nPFAMkiTz3jqS70OOFLjOP/W4qqTcGMlj/aYN3fy7P7zjRPWuMlfC5YDYje\nLB6iin3DAgMBAAECggEAC+f01QWBOWKhdjJNGHQGXfF7fZo1O8aywXbBtApl2HoB\nI+yiFNHfg+OUgErToNxXTZYyzgjmNFph7q6ENitNJ6SP8m0ATknuIYwHaRTjvtyo\nQ6d+ExSV6OVF8RAFH/nurKL39tGaU+3sC9GuBZmqyGZ2ElgSkD/NCyofRe0EpAAg\nxlfYtD5VaSZ7gRzYEkM5lNNhT2ZmE07dXeCKgzAUIuIYtQ1d6lz41d0vcowntSqV\nquiRIpWGw2+TpfMvyCUlreBJfsQliR63a2h/Z3YXz9NjtkkO3eoqR/72bNt3uxls\nR3iTS08m1dKwbNHt/rHA3Qy/PKny6zpWqNMVBjhIoQKBgQDjKYibhZ1lq8v5EKO1\n+bjc/iyrRJDoCmzwdbUaOBf2bS50Pz/8wPsIBmVMMjJzO575uvNofIsxn9c6sv58\neooxA0viKYFDFyx7dvIiX82MuoYhcfKEKHxurg8bps1X6X33HbpS5xjqiG+oXtiU\nAzDNLX6BceNDVYiaIaRESaolpwKBgQC/cHjZJRGMSB6EU9QmKrFe+hmipuB/Hu13\nO9CKR6EqtbSUEPL6IQ2CvQEeH7ekLIq2TkDE+jEsnF2eehm6S/0CwSYo4nbwl7su\n9sRFdn+tHs94HHDytddbdnhU/6xXoLAPAOYPYv5wnLAi4Qz6Cbhm+d3HDo/NEkcA\nPv9QzM1ihQKBgQCR7r652o6RIFq7OLtTTog6QHeF11iYGQp/N78Ohvat8tojB/cd\ncwRR1XoCB0VtzeGFYVq5xzjMunjUVuUyJq7cade4BR3rcdm7v2AyQQWV4MYGemNo\nD3JQ0DUYeIH2diPcOxbV52yUTu4cZkIQZDRXu2BH3Fg5i5tkGTSkQgayhQKBgQCd\nPT81c7nvFAlkvQnic2yOSzQlIZYBM6DuL0YBXgYlc2untigshFt5h85UNM78XM1u\nIeYXJDyhnKlUkotxNhrRWV4DdMcmpCnN0EezmjoSMt1LlWi8IdmKOUtq3TlsHAKf\nwCg2eSPt0PTnIRwsfzFj+1VKu04nrRx+OkAw2JbVlQKBgQDX69N3GtWK0XhPyC3j\nW2Mz8fbQLI5CsWtUllbeRQJ5i5dv8+tTB1UGc0ZJj0KAZ2J+GtmH+eV0QPJXwBD4\n2Jj/6mqUyMSvu+47HxkWewdV4mKnnce49sCABu5t3hRKnbh7GJkR9Vx7tce9vlYC\nbcYdIJmo0bRcCK50CP221sE/Rw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-owf-ym2fxwlvm9ajjrxyss58xm@rapid-airship-383220.iam.gserviceaccount.com",
+  "client_id": "111979027598292359904",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-owf-ym2fxwlvm9ajjrxyss58xm%40rapid-airship-383220.iam.gserviceaccount.com"
+}
